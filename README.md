@@ -1,12 +1,13 @@
-**👋 Hi, I'm Usama Zafar**
-**💼 BI Engineer | Data Analyst | ETL Developer | D365 F&O Specialist**
+## 👋 Hi, I'm Usama Zafar
 
-📊 Experienced in **Business Intelligence, data engineering, reporting, and enterprise analytics**
-🚀 Passionate about transforming raw data into **scalable, efficient, and insight-driven BI solutions**
+💼 BI Engineer | Data Analyst | ETL Developer | D365 F&O Specialist
 
-I specialize in building **end-to-end analytics systems** that help organizations turn complex data into clear, actionable insights for better decision-making across **finance, sales, and operations.**
+📊 Experienced in Business Intelligence, data engineering, reporting, and enterprise analytics
+🚀 Passionate about transforming raw data into scalable, efficient, and insight-driven BI solutions
 
-🔍 What I Do
+I specialize in building end-to-end analytics systems that help organizations turn complex data into clear, actionable insights for better decision-making across finance, sales, and operations.
+
+## 🔍 What I Do
 
 Design and develop interactive Power BI dashboards & BI solutions
 Build scalable data models using DAX, SQL & T-SQL
@@ -16,7 +17,7 @@ Design data warehouse solutions for analytical reporting
 Perform data cleaning, transformation, and performance optimization
 Deliver enterprise-grade reporting solutions with focus on scalability & usability
 
-📊 Featured Projects
+## 📊 Featured Projects
 
 📦 Inventory Performance Analysis – Power BI
 Built a complete analytics solution to monitor inventory movement, stock health, and slow-moving items.
@@ -43,7 +44,7 @@ Built predictive models for forecasting sales trends and supporting business pla
 ✔ Improved demand forecasting accuracy
 ✔ Enabled proactive decision-making
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 💡 BI & Visualization: Power BI, DAX
 🗄️ Data & Querying: SQL, T-SQL, Data Modeling
@@ -53,11 +54,10 @@ Built predictive models for forecasting sales trends and supporting business pla
 🐍 Programming: Python
 📂 Tools: Excel, Power Query, PL-300 Certified Knowledge
 
-📬 Let’s Connect
+## 📬 Let’s Connect
 
 I'm open to opportunities in Business Intelligence, Data Engineering, ETL Development, and Enterprise Reporting Solutions.
 
 🔗 LinkedIn: Usama Zafar
 📧 Email: usamabhutta035@gmail.com
-
 💬 WhatsApp: +92 302 6059857
