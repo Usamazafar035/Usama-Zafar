@@ -5,7 +5,7 @@
 📊 Experienced in **Business Intelligence**, **Data Engineering**, **Reporting**, and **Enterprise Analytics**  
 🚀 Passionate about transforming **raw data** into **scalable, efficient, and insight-driven BI solutions**
 
-I specialize in building **end-to-end analytics systems** that help organizations turn complex data into **clear, actionable insights** for better decision-making across **Finance, Sales, and Operations**.
+I specialize in building **end-to-end analytics systems** that help organizations turn complex data into **clear, actionable insights** for better decision-making across **Finance, Sales, Operations, and Healthcare**.
 
 ---
 
@@ -53,6 +53,14 @@ Built predictive models for forecasting sales trends and supporting business pla
 
 ✔ Improved demand forecasting accuracy  
 ✔ Enabled proactive decision-making  
+
+### 🏥 Healthcare – Patient Journey & KPI Tracking Dashboard
+Healthcare analytics solution designed to monitor patient flow across multiple treatment stages.
+
+✔ Tracked patient lifecycle (admission → treatment → discharge)  
+✔ Monitored department-wise KPIs and performance metrics  
+✔ Improved visibility of patient status and hospital operations  
+✔ Enabled data-driven healthcare decision-making 
 
 ---
 
