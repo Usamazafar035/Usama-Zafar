@@ -46,8 +46,6 @@ Built predictive models for forecasting sales trends and supporting business pla
 
 ## 🛠️ Tech Stack
 
-Here’s a cleaner, more professional version while keeping your style:
-
 * 💡 **BI & Visualization:** Power BI, DAX
 * 🗄️ **Data & Querying:** SQL, T-SQL, Data Modeling
 * ⚙️ **ETL & Data Engineering:** SSIS, ADF (Azure Data Factory), Microsoft Fabric
@@ -57,8 +55,6 @@ Here’s a cleaner, more professional version while keeping your style:
 * 📂 **Tools & Certifications:** Excel, Power Query, PL-300 Certified Knowledge
 
 ## 📬 Let’s Connect
-
-Here’s a cleaner, professional version for your profile:
 
 💼 I’m open to opportunities in **Business Intelligence, Data Engineering, ETL Development, and Enterprise Reporting Solutions**.
 
