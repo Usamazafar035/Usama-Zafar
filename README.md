@@ -9,13 +9,13 @@ I specialize in building end-to-end analytics systems that help organizations tu
 
 ## 🔍 What I Do
 
-Design and develop interactive Power BI dashboards & BI solutions
-Build scalable data models using DAX, SQL & T-SQL
-Develop and optimize ETL pipelines using SSIS, ADF, & Microsoft Fabric
-Work with Microsoft Dynamics 365 (F&O) reporting & data entities
-Design data warehouse solutions for analytical reporting
-Perform data cleaning, transformation, and performance optimization
-Deliver enterprise-grade reporting solutions with focus on scalability & usability
+* Design and develop interactive Power BI dashboards and BI solutions
+* Build scalable data models using DAX, SQL, and T-SQL
+* Develop and optimize ETL pipelines using SSIS, Azure Data Factory (ADF), and Microsoft Fabric
+* Work with Microsoft Dynamics 365 (Finance & Operations) for reporting and data entities
+* Design and implement data warehouse solutions for analytical reporting
+* Perform data cleaning, transformation, and performance optimization
+* Deliver enterprise-grade reporting solutions with a focus on scalability and usability
 
 ## 📊 Featured Projects
 
