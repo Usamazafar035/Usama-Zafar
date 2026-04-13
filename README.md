@@ -74,7 +74,7 @@ Healthcare analytics solution designed to monitor patient flow across multiple t
 * 🏢 **ERP Systems:** Microsoft Dynamics 365 (F&O)  
 * 📊 **Data Architecture:** Data Warehousing, ETL Design  
 * 🐍 **Programming:** Python  
-* 📂 **Tools:** Excel, Power Query, PL-300 Certified  
+* 📂 **Others:** Excel, Power Query, PL-300 Certified  
 
 ---
 
