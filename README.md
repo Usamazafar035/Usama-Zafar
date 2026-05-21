@@ -11,7 +11,7 @@ I specialize in building **end-to-end analytics systems** that help organization
 
 ## 🔍 What I Do
 
-* Design and develop interactive **Power BI dashboards** and **BI solutions**
+* Design and develop interactive **Power BI dashboards**, **Power Automate Flows** and **BI solutions**
 * Build scalable **data models** using **DAX**, **SQL**, and **T-SQL**
 * Develop and optimize **ETL/ELT pipelines** using **SSIS**, **Azure Data Factory (ADF)**, **Databricks and Microsoft Fabric**
 * Work with **Microsoft Dynamics 365 (Finance & Operations)**
@@ -68,7 +68,7 @@ Healthcare analytics solution designed to monitor patient flow across multiple t
 
 ## 🛠️ Tech Stack
 
-* 💡 **BI & Visualization:** Power BI, DAX  
+* 💡 **BI & Visualization:** Power BI,Power Automate DAX  
 * 🗄️ **Data & Querying:** SQL, T-SQL, Data Modeling  
 * ⚙️ **ETL & Data Engineering:** SSIS, ADF, Microsoft Fabric, Databricks 
 * 🏢 **ERP Systems:** Microsoft Dynamics 365 (F&O)  
