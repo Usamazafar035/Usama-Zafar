@@ -68,7 +68,7 @@ Healthcare analytics solution designed to monitor patient flow across multiple t
 
 ## 🛠️ Tech Stack
 
-* 💡 **BI & Visualization:** Power BI,Power Automate DAX  
+* 💡 **BI & Visualization:** Power BI,Power Automate, DAX  
 * 🗄️ **Data & Querying:** SQL, T-SQL, Data Modeling  
 * ⚙️ **ETL & Data Engineering:** SSIS, ADF, Microsoft Fabric, Databricks 
 * 🏢 **ERP Systems:** Microsoft Dynamics 365 (F&O)  
